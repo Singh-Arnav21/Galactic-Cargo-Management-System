@@ -1,7 +1,7 @@
-# Galactic Cargo Management System (GCMS)
+# Nested AVL tree
 
-This project is part of the **Data Structures and Algorithms** course at **IIT Delhi**.
+I implemented Nested AVL tree as a part of an assignment in **Data Structures and Algorithms** course at **IIT Delhi**.
 
-In this assignment, I have implemented three **AVL Trees** to efficiently manage the **Galactic Cargo Management System (GCMS)**. One of these AVL trees is a **nested AVL tree**, allowing for optimized handling of cargo bins and objects.
+In this assignment, we had to build a Cargo Management System to efficiently put objects in cargo bins.
 
-The GCMS handles different types of cargo (distinguished by color) and assigns them to bins using various bin-packing algorithms such as Compact Fit and Largest Fit.
+Different type of objects (distinguished by color) are assigned to different bins using various bin-packing algorithms such as Compact Fit and Largest Fit.
