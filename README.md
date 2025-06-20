@@ -1,4 +1,4 @@
-# Nested AVL tree
+# Galactic Cargo Management System
 
 I implemented Nested AVL tree as a part of an assignment in **Data Structures and Algorithms** course at **IIT Delhi**.
 
